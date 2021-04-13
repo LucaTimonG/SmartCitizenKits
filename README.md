@@ -1,0 +1,2 @@
+# SmartCitizenKits
+Environment Sensors API
